@@ -1,0 +1,11 @@
+# Label mapping with symbols
+labels = {
+    "0": "Circle ◯",
+    "1": "Kite ⬰",
+    "2": "Parallelogram ▰",
+    "3": "Rectangle ▭",
+    "4": "Rhombus ◆",
+    "5": "Square ◼",
+    "6": "Trapezoid ⏢",
+    "7": "Triangle ▲"
+}
